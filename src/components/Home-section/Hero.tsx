@@ -5,6 +5,7 @@ import { cn } from '@/lib/utils';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { FaCoins } from 'react-icons/fa';
+
 interface SentenceConstructionProps {
     timePerQuestion?: number;
     totalQuestions?: number;
@@ -41,6 +42,9 @@ const SentenceConstruction: React.FC<SentenceConstructionProps> = ({
                             " text-gray-800 bg-clip-text",
                             ""
                         )}>
+                            <div className='mb-4'>
+                                <img src="/Vector.png" alt="Logo" className="w-12 h-12 mx-auto" />
+                            </div>
                             Sentence Construction
                         </CardTitle>
                         <CardDescription className={cn(
