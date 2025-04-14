@@ -8,7 +8,7 @@ This application presents users with sentences containing blank spaces and a set
 
 ### 🧪 Live Demo
 
-> [👉 View Live on Vercel](https://your-vercel-link.com)
+> [👉 View Live on Vercel](https://camonk-assignment.vercel.app/)
 
 ---
 
@@ -16,9 +16,12 @@ This application presents users with sentences containing blank spaces and a set
 
 | Home Screen | Question Screen | Feedback Screen |
 |-------------|------------------|------------------|
-| ![home](./screenshots/home.png) | ![question](./screenshots/question.png) | ![feedback](./screenshots/feedback.png) |
+|![HomePage](https://github.com/user-attachments/assets/6e9f7fcd-144c-446d-9f2f-37a8b6795236)
+|
+![Test Screen-1](https://github.com/user-attachments/assets/e4489e70-4a66-4443-b3ac-858a5dde4b8d)
+| 
+![result](https://github.com/user-attachments/assets/3d281a14-2a8c-4c79-8862-fe8da97efe23)
 
----
 
 ## 🛠️ Features
 
